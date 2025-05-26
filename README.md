@@ -62,6 +62,8 @@ OGSkillStake is a decentralized smart contract protocol that allows investors to
 - Node.js & npm
 - Hardhat (recommended) or Remix IDE
 - Metamask wallet for testnets (Goerli, Sepolia)
+  
+![image](https://github.com/user-attachments/assets/e7ae2fbd-819b-4b4b-9da7-40c7d79b9e03)
 
 ### Deployment (Hardhat)
 
@@ -71,5 +73,5 @@ cd ogskillstake
 npm install
 npx hardhat compile
 
-![image](https://github.com/user-attachments/assets/5ab7255a-62d6-44ae-b355-23af5ca1c53a)
+
 
