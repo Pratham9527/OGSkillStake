@@ -70,3 +70,6 @@ git clone https://github.com/your-repo/ogskillstake.git
 cd ogskillstake
 npm install
 npx hardhat compile
+
+![image](https://github.com/user-attachments/assets/5ab7255a-62d6-44ae-b355-23af5ca1c53a)
+
